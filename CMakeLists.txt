@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.12)
+
+project(star-wars-battleground VERSION 1.0.0)
+
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
+
+file(GLOB_RECURSE HEADER_FILES ${CMAKE_CURRENT_SOURCE_DIR}/include/*.h)
+
+file(GLOB_RECURSE SOURCE_FILES ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
+
+set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${PROJECT_NAME})
+
+add_executable(${PROJECT_NAME} ${HEADER_FILES} ${SOURCE_FILES})

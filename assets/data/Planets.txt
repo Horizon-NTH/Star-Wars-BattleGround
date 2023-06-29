@@ -1,0 +1,69 @@
+Tatooine
+Jabba
+1
+1
+b
+Boba Fett
+Blaster EE-3
+25
+15
+a
+Mandalorian Helmet
+
+Kamino
+Kaminoan
+2
+1
+b
+Jango Fett
+Blaser WESTAR-34
+35
+15
+a
+Mandalorian Helmet
+a
+Mandalorian Armor
+
+Endor
+Imperial officer
+3
+2
+b
+Ewok
+Stone Thrower
+25
+20
+b
+StormTrooper
+Blaster E-11
+30
+20
+a
+Stormtrooper armor
+t
+Officer plan
+s
+Ancestral statue
+
+Hoth
+Darth Vader
+4
+2
+b
+Imperial Probe Droid
+Mechanical hands
+25
+20
+b
+Wampa
+Hand
+35
+100
+t
+Autodestruction
+s
+Levitation system
+h
+Beast
+t
+Furious rage
