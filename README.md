@@ -1,23 +1,23 @@
 # Star Wars BattleGround
 
-                        ________   ___   ____
-                       / __   __| / _ \ |  _ \
-                 ______> \ | |   |  _  ||    /_____________________________
-                / _______/ |_|   |_| |_||_|\______________________________ \
-               / /                                                        \ \
-              | |                                                          | |
-              | |                                                          | |
-              | |   ___       __  __  __      _____                      __| |
-              | |  / _ )___ _/ /_/ /_/ /__   / ___/______  __ _____  ___/ /| |
-              | | / _  / _ `/ __/ __/ / -_) / (_ / __/ _ \/ // / _ \/ _  / | |
-              | |/____/\_,_/\__/\__/_/\__/  \___/_/  \___/\_,_/_//_/\_,_/  | |
-              | |                                                          | |
-              | |                                                          | |
-              | |                                                          | |
-               \ \____________________________    _   ___   ____   _______/ /
-                \___________________________  |  | | / _ \ |  _ \ / _______/
-                                            | |/\| ||  _  ||    / > \
-                                             \_/\_/ |_| |_||_|\_\|__/
+                            ________   ___   ____
+                           / __   __| / _ \ |  _ \
+                     ______> \ | |   |  _  ||    /_____________________________
+                    / _______/ |_|   |_| |_||_|\______________________________ \
+                   / /                                                        \ \
+                  | |                                                          | |
+                  | |                                                          | |
+                  | |   ___       __  __  __      _____                      __| |
+                  | |  / _ )___ _/ /_/ /_/ /__   / ___/______  __ _____  ___/ /| |
+                  | | / _  / _ `/ __/ __/ / -_) / (_ / __/ _ \/ // / _ \/ _  / | |
+                  | |/____/\_,_/\__/\__/_/\__/  \___/_/  \___/\_,_/_//_/\_,_/  | |
+                  | |                                                          | |
+                  | |                                                          | |
+                  | |                                                          | |
+                   \ \____________________________    _   ___   ____   _______/ /
+                    \___________________________  |  | | / _ \ |  _ \ / _______/
+                                                | |/\| ||  _  ||    / > \
+                                                 \_/\_/ |_| |_||_|\_\|__/
 
 ## Introduction
 
@@ -54,12 +54,10 @@
     cmake --build .
     ```
 
-    This command will create the executable in `build/Debug/`.
+    This command will create the executable in `bin/`.
 
   * **Microsoft Visual Studio**
 
     You can also use [Microsoft Visual Studio](https://visualstudio.microsoft.com/) to launch the project and build it. Simply open the `star-wars-battleground.sln` file with Microsoft Visual Studio.
 
-## Documentation
-
-Please refer to the documentation to see how the game work.
+    ⚠️ Caution! The repository utilizes a data file, so please be mindful of potential errors related to the working directory.
