@@ -25,7 +25,7 @@
 
 ## Install Instructions
 
-You can get the source code from scratch or just install a [realese version](https://github.com/Horizon-NTH/Star-Wars-BattleGround/releases)
+You can get the source code from scratch or simply install a [realese version](https://github.com/Horizon-NTH/Star-Wars-BattleGround/releases).
 
 * Get source code
 
